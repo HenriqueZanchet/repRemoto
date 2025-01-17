@@ -1,2 +1,4 @@
 documentação de develop 
 atualizacao de documentação de develop
+
+mod feito na branch conflito
